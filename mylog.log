@@ -1,0 +1,33 @@
+    1  cd C:\Users\LeeJH\Downloads\170405\170405\170405 
+    2  cd C:\Users\LeeJH\Downloads\170405\170405\170405
+    3  pwd
+    4  cd ..
+    5  cd C:\Users\LeeJH\Downloads\170405\170405\170405\
+    6  cd C:
+    7  cd c:\Users
+    8  cd LeeJH
+    9  cd C:\Users\LeeJH\Downloads\170405\170405\170405
+   10  cd C:\Users\LeeJH\Downloads\170405\170405
+   11  cd C:\Users\LeeJH\Downloads\170405\
+   12  cd C:\Users\LeeJH\Downloads\170405
+   13  cd C:\Users\LeeJH\Downloads
+   14  cd C:\Users\LeeJH
+   15  cd Downloads\170405\170405\170405
+   16  pwd
+   17  cd ..
+   18  cd LeeJH\Downloads\170405\170405\170405
+   19  cd LeeJH
+   20  cd Downloads\170405\170405\170405
+   21  cd Downloads
+   22  cd 170405
+   23  cd 170405
+   24  cd 170405
+   25  cd ..
+   26  cd ..
+   27  cd ..
+   28  cd Lav4
+   29  cd Lab4
+   30  cd Downloads
+   31  cd Lab4
+   32  cd 4.1
+   33  history>mylog.log
